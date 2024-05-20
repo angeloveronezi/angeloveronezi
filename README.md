@@ -45,4 +45,3 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://www.linkedin.com/in/angelo-budil-veronezi-474a6a26" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <!-- https://dev.to/envoy_/150-badges-for-github-pnk --->
-##
