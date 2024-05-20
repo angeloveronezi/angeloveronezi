@@ -2,7 +2,8 @@
 - Sou um estudante de TI.
 - 🤯 Iniciei trabalhando como help desk e gostei muito da área de tecnologia.
 - 🔭 Atualmente exerço a profissão de QA/Tester.
-- 🌱 Estou estudando Lógica de Programação em C#
+- 🌱 Estou estudando Lógica de Programação em C#.
+- 😄 Pronome: Ele/Dele.
 
 <!--
 **angeloveronezi/angeloveronezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
