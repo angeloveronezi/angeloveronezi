@@ -1,5 +1,5 @@
 ### Olá 👋
-- Sou um estudante de TI.
+- Sou estudante de TI (bacharel em SI).
 - 🤯 Iniciei trabalhando como help desk e gostei muito da área de tecnologia.
 - 🔭 Atualmente exerço a profissão de QA/Tester.
 - 🌱 Estou estudando Lógica de Programação em C#.
