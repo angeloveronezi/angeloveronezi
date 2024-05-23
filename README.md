@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="AzureDevOps" height="40" wwidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg">
   <img align="center" alt="CSharp" height="40" wwidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="MySQL" height="40" wwidth="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="MySQL" height="40" wwidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Jenkins" height="40" wwidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="VisualStudio" height="40" wwidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
   <img align="center" alt="SQLServer" height="40" wwidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
