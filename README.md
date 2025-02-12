@@ -37,6 +37,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Jenkins" height="40" wwidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="VisualStudio" height="40" wwidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
   <img align="center" alt="SQLServer" height="40" wwidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Python" height="40" wwidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <a href="https://devicon.dev" target="_blank"> <img align="center" alt="Site DevIcon, repositório com vários icones referentes a tecnoligias de programação" height="40" wwidth="50" src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-plain.svg"></a>
 </div>
 
